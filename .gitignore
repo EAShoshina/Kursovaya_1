@@ -1,0 +1,11 @@
+# Исходные данные (слишком большие)
+autokz2019.csv
+
+# Результаты, которые генерируются скриптами (их не нужно хранить в git)
+autokz2019_cleaned.csv
+eda_results.txt
+compare_report.txt
+visualizations.png
+eda_plots/
+__pycache__/
+*.pyc
